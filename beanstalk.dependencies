@@ -1,6 +1,6 @@
 [
     {
-        "remote": "bean",
+        "remote": "Co-BeanStalk",
         "repository": "android_kernel_samsung_i9082",
         "target_path": "kernel/samsung/i9082",
         "revision": "kk4.4"
